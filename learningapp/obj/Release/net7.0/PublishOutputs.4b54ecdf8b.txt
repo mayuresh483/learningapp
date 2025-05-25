@@ -6,9 +6,17 @@
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/learningapp.runtimeconfig.json
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/learningapp.pdb
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Azure.Core.dll
+/Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Azure.Data.AppConfiguration.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Azure.Identity.dll
+/Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Azure.Messaging.EventGrid.dll
+/Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Azure.Security.KeyVault.Secrets.dll
+/Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/DnsClient.dll
+/Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.Azure.AppConfiguration.AspNetCore.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.Bcl.HashCode.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.Data.SqlClient.dll
+/Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.Extensions.Azure.dll
+/Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.Identity.Client.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.Identity.Client.Extensions.Msal.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.IdentityModel.Abstractions.dll
@@ -19,6 +27,7 @@
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.IdentityModel.Tokens.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.SqlServer.Server.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/Microsoft.Win32.SystemEvents.dll
+/Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/System.ClientModel.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/System.Configuration.ConfigurationManager.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/System.Drawing.Common.dll
 /Users/mayuresh483/Desktop/Personal Projects/Azure/learningapp/bin/Release/net7.0/publish/System.IdentityModel.Tokens.Jwt.dll
